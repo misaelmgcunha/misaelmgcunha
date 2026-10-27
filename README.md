@@ -9,13 +9,13 @@
     modernas, responsivas e intuitivas.
   </p>
 
-  <a href="https://misaelmgcunha.github.io/Portfolio/">
+  <a href="https://misaelmgcunha.github.io" target="blank">
     <img src="https://img.shields.io/badge/Meu_Portf%C3%B3lio-2466E0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Meu portfólio" />
   </a>
-  <a href="https://www.instagram.com/misaelcunha.dev/">
+  <a href="https://www.instagram.com/misaelcunha.dev/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-2466E0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:misaelmgcunha.dev@gmail.com">
+  <a href="mailto:misaelmgcunha.dev@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Contato-2466E0?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 
@@ -96,7 +96,7 @@ Projeto institucional fictício desenvolvido para praticar a criação de interf
 
 Meu espaço pessoal para apresentar meus projetos, minhas habilidades e minha evolução no desenvolvimento Front-End.
 
-🔗 **[Visitar portfólio](https://misaelmgcunha.github.io/Portfolio/)**
+🔗 **[Visitar portfólio](https://misaelmgcunha.github.io)**
 
 > Estou sempre buscando novos desafios para transformar conhecimento em projetos práticos.
 
